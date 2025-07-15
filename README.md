@@ -1,2 +1,2 @@
-# liver-guard
-Big Data project focused on liver disease detection by analyzing large-scale health datasets using Python, visualization, and machine learning.
+# LiverGuard
+This project, developed as part of the NUS Big Data Analytics program, focuses on detecting liver disease using large-scale medical datasets. Leveraging Python, pandas, visualization libraries, and machine learning algorithms, the goal is to uncover meaningful patterns that aid in early diagnosis. The project demonstrates data preprocessing, feature selection, model training, and evaluation to support healthcare decision-making through data-driven insights.
